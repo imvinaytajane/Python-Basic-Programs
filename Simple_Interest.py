@@ -1,4 +1,5 @@
 # To Finf Simple Intrest
+# Made by Vinay on 05 Sept 2021
 print("Lets Find Simple Interest!")
 
 p = int(input("Enter Principal Ammount:"))

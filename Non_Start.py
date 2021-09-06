@@ -1,3 +1,4 @@
+# Made by Vinay on 03 Sept 2021
 # Problem Statment
 # Given 2 strings, return their concatenation, except omit the first char of each. The strings will be at least length 1.
 # non_start('Hello', 'There') → 'ellohere'
