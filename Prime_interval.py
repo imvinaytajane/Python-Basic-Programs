@@ -1,6 +1,6 @@
 # incomplete
-s = int(input("Start"))
-e = int(input("End"))
+s = int(input("Start:"))
+e = int(input("End:"))
 prime = None
 
 for i in range(s,e):
