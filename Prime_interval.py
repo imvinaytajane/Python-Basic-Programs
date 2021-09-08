@@ -1,17 +1,16 @@
-# Made by Vinay on 07 Sept 2021
-s = int(input("Start:"))
-e = int(input("End:"))
-prime = None
-if s==1 or s==2:
-    print(2)
+# # Made by Vinay on 08 Sept 2021
+print("Enter Range in Which you want to Find Prime Numbers!")
 
-for i in range(s,e):
-    d = range(2,i)
-    for m in d:
-        if i%m==0:
-            break
-        elif prime!=i and prime!=None:
-            print(prime)
-        prime = i
+start = int(input("Start:"))
+end = int(input("End:"))
 
-print(prime)
+print("Prime Numbers in Given Range are:")
+
+for num in range(start, end+1):
+    # as 1 is neither prime or composite
+    if num > 1:
+        for d in range(2,num):
+            if (num % d)==0:
+                break
+        else:
+           print(num)
