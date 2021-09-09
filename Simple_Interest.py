@@ -6,6 +6,6 @@ p = int(input("Enter Principal Ammount:"))
 r = int(input("Enter Rate of interest:"))
 t = int(input("Time Interval of Interest:"))
 
-pi =(p*r*t)/100
+si =(p*r*t)/100
 
-print("Simple Interest is",pi)
+print("Simple Interest is",si)
