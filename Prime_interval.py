@@ -1,4 +1,4 @@
-# # Made by Vinay on 08 Sept 2021
+# Made by Vinay on 08 Sept 2021
 print("Enter Range in Which you want to Find Prime Numbers!")
 
 start = int(input("Start:"))
