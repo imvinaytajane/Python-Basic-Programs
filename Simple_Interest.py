@@ -1,4 +1,4 @@
-# To Finf Simple Intrest
+# To Find Simple Intrest
 # Made by Vinay on 05 Sept 2021
 print("Lets Find Simple Interest!")
 
