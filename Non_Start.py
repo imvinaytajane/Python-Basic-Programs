@@ -6,13 +6,14 @@
 # non_start('shotl', 'java') → 'hotlava'
 
 def non_start(a, b):
-   
+
     print(a.replace(a[0], "") + b.replace(b[0], ""))
+
 
 non_start('Hello', 'There')
 non_start('java', 'code')
 non_start('shotl', 'java')
 
-#For general Case
+# For general Case
 
 non_start(a=input('Enter First String: '), b=input('Enter Second String: '))

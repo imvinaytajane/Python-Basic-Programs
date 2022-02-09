@@ -7,5 +7,5 @@ r = float(input("Enter Radius of Circle:"))
 
 pi = 3.14
 
-print("Circumference of Circle is",2*pi*r)
-print("Area of Circle is",pi*r**2)
+print("Circumference of Circle is", 2*pi*r)
+print("Area of Circle is", pi*r**2)
