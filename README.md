@@ -1,2 +1,2 @@
 # Python-Basic-Programs
-This Repository Consist of Small Programs made in Python
+This Repository is Collection of Minor Programs made in Python By Vinay
