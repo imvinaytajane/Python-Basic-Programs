@@ -1,3 +1,4 @@
+# Python program to check whether a number is Prime or not
 # Made by Vinay on 09 Sept 2021
 print("==== Check if Number is Prime or Not! ====")
 num = int(input("Enter Number:"))

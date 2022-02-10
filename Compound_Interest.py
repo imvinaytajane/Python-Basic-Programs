@@ -1,4 +1,4 @@
-# To Find Compound Intrest
+# Python Program for compound interest
 # Made by Vinay on 05 Sept 2021
 print("==== Lets Find Compound Interest! ====")
 
@@ -8,4 +8,4 @@ t = int(input("Time Interval of Interest in Terms of Year:"))
 
 pi = p*(1+r/100)**t
 
-print("Compound Interest is:",pi)
+print("Compound Interest is:", pi)

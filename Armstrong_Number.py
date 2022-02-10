@@ -1,4 +1,4 @@
-# Program to Check it is Armstrong Number or Not
+# Python Program to check Armstrong Number
 # Made by Vinay on 06 Sept 2021
 print("==== Armstrong Number Verify ====")
 num = input("Enter a Number to check it is Armstrong Number or Not!\n")

@@ -1,5 +1,6 @@
-# To Print Fibonacci Number
+# Python Program for n-th Fibonacci number
 # By Vinat Tajane on 3rd March 2022
+
 def fib(n):
     if n <= 0:
         print("incorrect input")
@@ -12,4 +13,4 @@ def fib(n):
 
 
 n = int(input("Enter Position of Fiboacci Number:"))
-print("Your Fibonacci is ",fib(n))
+print("Your Fibonacci is ", fib(n))

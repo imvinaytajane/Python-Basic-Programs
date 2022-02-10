@@ -1,4 +1,4 @@
-# To Find Simple Intrest
+# Python Program for simple interest
 # Made by Vinay on 05 Sept 2021
 print("==== Lets Find Simple Interest! ====")
 

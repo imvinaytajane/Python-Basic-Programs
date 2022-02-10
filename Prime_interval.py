@@ -1,4 +1,4 @@
-# To Find Prime Number in Given Interval
+# Python program to print all Prime numbers in an Interval
 # Made by Vinay on 08 Sept 2021
 print("Enter Range in Which you want to Find Prime Numbers!")
 

@@ -1,7 +1,7 @@
+# Python Program to find circumference & area of Circle
 # Made by Vinay on 06 Sept 2021
-# A Program to find circumference & area of Circle
 
-print("YOu Will get circumference & area of a Circle!")
+print("== YOu Will get circumference & area of a Circle! ==")
 
 r = float(input("Enter Radius of Circle:"))
 

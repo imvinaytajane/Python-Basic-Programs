@@ -1,4 +1,4 @@
-# Fimding Sum of n Numbers
+# Python Program to add n Numbers
 # Made by Vinay on 05 Sept 2021
 total = 0
 print('======================================================')
