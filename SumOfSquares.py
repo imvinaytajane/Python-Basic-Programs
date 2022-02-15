@@ -1,5 +1,5 @@
 # Python Program for Sum of squares of first n natural numbers
-# By Vinay Tajane on 3rd March 2022
+# By Vinay Tajane on 10th Feb 2022
 
 print("==== Find Sum of Squares of First n Numbers ====")
 n = int(input('Enter Number:'))

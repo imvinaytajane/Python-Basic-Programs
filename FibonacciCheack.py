@@ -1,5 +1,5 @@
 # Python Program to check if a given number is Fibonacci number
-# By Vinay Tajane on 3rd March 2022
+# By Vinay Tajane on 9th Feb 2022
 
 print("==== Fibonacci Number Check ====")
 num = int(input("Enter Number:"))

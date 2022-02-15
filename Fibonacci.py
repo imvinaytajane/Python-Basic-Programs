@@ -1,5 +1,5 @@
 # Python Program for n-th Fibonacci number
-# By Vinat Tajane on 3rd March 2022
+# By Vinat Tajane on 9th Feb 2022
 
 def fib(n):
     if n <= 0:
